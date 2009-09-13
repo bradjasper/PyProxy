@@ -1,7 +1,7 @@
 import web
 import urllib
 
-AUTH_TOKEN = 'QWQ234klLQ@'
+AUTH_TOKEN = 'SJKDLFSDFSDF'
 
 urls = (
     '/proxy/', 'proxy'
